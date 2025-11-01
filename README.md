@@ -2,6 +2,11 @@
 
 GpsSmoother.js is a lightweight JavaScript class for smoothing noisy GPS data in real time. It calculates stabilized bearing, altitude, and speed using a configurable sliding window and exponential smoothing. Ideal for mapping, tracking, and telemetry applications.
 
+## Support This Project
+If you find GpsSmoother.js useful, consider supporting its development:
+
+[![Donate via Stripe](https://img.shields.io/badge/Donate-Stripe-blue)](https://donate.stripe.com/7sYbJ2de5eHX4gO5BZbbG00)
+
 ## Features
 Each feature in GpsSmoother.js is designed for practical, real-world GPS workflows:
 
