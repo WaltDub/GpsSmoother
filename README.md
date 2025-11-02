@@ -89,7 +89,7 @@ Clears all stored positions and resets the internal smoothing state.
 Dynamically update smoothing parameters.
 
 ## GeoJSON Output Example
-```html
+```json
 {
   "type": "Feature",
   "geometry": { "type": "LineString", "coordinates": [ [9.92, 57.05], [9.93, 57.06] ] },
