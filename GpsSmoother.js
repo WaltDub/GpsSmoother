@@ -131,4 +131,6 @@ class GpsSmoother {
   }
 }
 
-export default GpsSmoother;
+window.GpsSmoother = GpsSmoother;
+
+
